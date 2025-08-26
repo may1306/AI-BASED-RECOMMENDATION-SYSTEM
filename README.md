@@ -97,6 +97,11 @@ Personalized advertisements and promotions are driven by AI-based recommender sy
 Social Media Platforms:
 Facebook, Instagram, and Twitter use recommendation systems to suggest friends, pages, groups, or trending posts.
 
+##OUTPUT
+
+<img width="1919" height="1022" alt="Image" src="https://github.com/user-attachments/assets/b2904075-bef7-4a87-8905-e263f991e365" />
+
+
 Healthcare Applications:
 Recommendation systems can be applied to suggest treatment plans, health-related articles, or wellness programs tailored to patient needs.
 
